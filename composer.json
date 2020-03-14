@@ -1,0 +1,17 @@
+{
+    "name": "jebpkgs/contactus",
+    "description": "This is a test laravel package",
+    "authors": [
+        {
+            "name": "jeb saldariega",
+            "email": "saldariega.jam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jebpkgs\\ContactUs\\": "/src"
+        }
+    }
+}
